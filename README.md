@@ -1,1 +1,4 @@
-# exercise-tracker-mongoDB
+# exercise-tracker
+-mongoDB
+-react
+      -components
