@@ -1,4 +1,5 @@
 # exercise-tracker
--mongoDB
--react
-      -components
+
+-mongoDB: link to database through mongoDB
+
+-react: separate webpage into 5 components
